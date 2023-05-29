@@ -1,4 +1,4 @@
-# AppIconChanger
+# IconAppChanger
 
 Cette App vous explique facilement comment changer l'icône d'une App. (Elle occupe que 3 MO)
 
