@@ -1,13 +1,13 @@
 # IconAppChanger
+<a href="https://zupimages.net/viewer.php?id=23/23/7301.png"><img src="https://zupimages.net/up/23/23/7301.png" alt="" /></a>
 
-Cette App vous explique facilement comment changer l'icône d'une App. (Elle occupe que 3 MO)
+Apprenez à remplacer simplement l'icône d'un programme, en quelques clics seulement.
 
-# 💻 Compatibilité : 
+## 💻 Compatibilité : 
 
-Cette App requiert un mac doté de macos 11 ou ultérieur
+Cette application requiert un Mac fonctionnant sous macOS 11.0 (Big Sur) ou version ultérieure.
 
-# ℹ️ Caractéristiques : 
+## ℹ️ Caractéristiques : 
 
-- Elle occupe que 3 MO
-
-- Elle sera incluse dans l'App Astuces 
+* Légèreté : l'application possède un poids de 3 Mo seulement.
+* Support : celle-ci sera prochainement introduite à l'application *Astuces*.
