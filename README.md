@@ -10,8 +10,8 @@ Cette App requiert un Mac doté de macos 11 ou ultérieur
 
 - Elle occupe que 3 MO
 
-- Elle sera incluse dans l'App Astuces 
+- Elle est incluse dans l'app Astuces 
 
-# 🛑 L'App est Obsolète
+# ⚠️ App en maintenance
 
-Cette Application est obsolète. Veuillez télécharger l'application Astuces : https://github.com/Astuces-iOS/Astuces
+Cette Application sera peut-être un jour remise sur le marché. Veuillez télécharger l'application Astuces pour avoir la dernière version de iConAppChanger: https://github.com/Astuces-iOS/Astuces
